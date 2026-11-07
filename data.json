@@ -1,0 +1,7 @@
+{
+    "park_names": ["Yellowstone", "Yosemite", "Zion", "Acadia", "Glacier", "Everglades", "Shenandoah", "Olympic"],
+    "state": ["Wyoming", "California", "Utah", "Maine", "Montana", "Florida", "Virginia", "Washington"],
+    "visitors_millions": [4.7, 3.9, 4.6, 3.9, 2.9, 0.8, 1.6, 2.9],
+    "acres_millions": [2.22, 0.76, 0.15, 0.05, 1.01, 1.51, 0.2, 0.92],
+    "year_founded": [1872, 1890, 1919, 1919, 1910, 1934, 1935, 1938]
+}
